@@ -6,6 +6,12 @@
 
 </div>
 
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CICD Project1](https://www.youtube.com/watch?v=_thUsMoECbo)
+- [Object Oriented Programming](https://www.youtube.com/watch?v=l3lcDaJkgCU&t=5s)
+- [Petroleum Engineering | Career & Scope](https://www.youtube.com/watch?v=qA0L_IRIvRg)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
 <!--
 **ayushg245/ayushg245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
