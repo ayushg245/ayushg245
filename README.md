@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ayush Gupta and I come from an oil & gas background. In my early career, I assisted oil & gas offshore projects commissioing of USD 5 billion in India. Working with tonnes of data there while automating and doing regression on Production Data made me passiondate to pursue a full time Master's in Data Science at Duke University. I am an exceptional negotiator and I love to pitch and sell. Moved cross countries because of my curiousity to know and learn from different minds and groups of people. 
+My name is Ayush Gupta and I am a graduate student of Data Science at Duke University. In my early career, I assisted oil & gas offshore projects commissioing of USD 5 billion in India. Working with tonnes of data there while automating and doing regression on Production Data made me passiondate to pursue a full time Master's in Data Science at Duke University. I am an exceptional negotiator and I love to pitch and sell. Moved cross countries because of my curiousity to know and learn from different minds and groups of people. 
 
 Here's what makes me proud for the work I have done in the past 3-4 years:
 1. Recognised with Reliance R-Sammman Award for Optimizing Production Systems using Regression Modelling in the oil & gas industry, thereby saving USD 500,000 for the company.
