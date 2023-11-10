@@ -1,3 +1,9 @@
+<div align="right"> 
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-6489b434/)
+
+</div>
+
 ### Hi there 👋
 
 My name is Ayush and I am a Data Science graduate student at Duke University. I have a knack of asking a bunch of WHYs until I distill a complicated concept into 3 simple sentences. 
@@ -8,13 +14,6 @@ Here's what makes me proud for the work I have done in the past 3-4 years:
 1. Special Recognition of R-Sammman Award from Reliance Industries Limited for Optimizing Production Systems using Regression Modelling in the oil & gas industry, thereby saving USD 500,000 for the company.
 2. Automated the various Production Reports - by using tools like Python and Advanced Excel, saving 80+ hours of Operator's work every month. 
 3. Helped my mother to fulfil her dream of being a business-woman by helping her in establishing an export business in Home Beddings : https://www.classycottage.in/
-
-
-<div align="right"> 
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-6489b434/)
-
-</div>
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
