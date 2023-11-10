@@ -4,9 +4,29 @@
 
 </div>
 
-### Hi there 👋
+<h1 align="center">Hi 👋,  I'm Ayush Gupta</h1>
 
-My name is Ayush and I am a Data Science graduate student at Duke University. I have a knack of asking a bunch of WHYs until I distill a complicated concept into 3 simple sentences. 
+- 📚 Data Science Masters Student at [Duke University](https://datascience.duke.edu/)
+- 👀 I’m interested in Coding and Data Science
+- 💻  I have 4 years of work experience in Data Analytics from [Reliance Industries Limited](https://www.ril.com/)
+- 📫 How to reach me **a.gupta@gmail.com**
+
+- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ayush-gupta-6489b434/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revanth7667" height="30" width="40" /></a>
+</p>
+
 
 In my early career, I assisted the commissioning of offshore oil & gas projects of USD 5 billion in India. Working with tonnes of production data made me passionate to automate tasks and bring out valuable insights from it. This eventually motivated me to pursue a full time Master's in Data Science. I am an exceptional negotiator and I love to pitch and sell. Moved cross countries because of my curiousity to know and learn from different minds and groups of people. 
 
