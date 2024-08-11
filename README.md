@@ -8,7 +8,7 @@
 
 - 📚 Data Science Masters Student at [Duke University](https://datascience.duke.edu/)
 - 👀 Experience in projects related to Machine Learning, Data Analytics, A/B Testing, Deep Learning, Geospatial Data, Data Engineering and Cloud Computing
-- 💻 Experience -
+- 💻 Experience 
   
                1. Worked as a Data Sceintist in [Geolabe](https://www.geolabe.com/), working on Methane Detection AI technology using Geospatial data.
   
