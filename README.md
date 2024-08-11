@@ -7,8 +7,10 @@
 <h1 align="center">Hi 👋,  I'm Ayush Gupta</h1>
 
 - 📚 Data Science Masters Student at [Duke University](https://datascience.duke.edu/)
-- 👀 I’m interested in Coding and Data Science
-- 💻  I have 4 years of work experience in Data Analytics from [Reliance Industries Limited](https://www.ril.com/)
+- 👀 Experience in projects related to Machine Learning, Data Analytics, A/B Testing, Deep Learning, Geospatial Data, Data Engineering and Cloud Computing
+- 💻 Experience -
+-               1. Worked as a Data Sceintist in [Geolabe](https://www.geolabe.com/), working on Methane Detection AI technology using Geospatial data. 
+-               1. 4 years of work experience in Data Analytics in [Reliance Industries Limited](https://www.ril.com/) in the oil & gas industry. 
 - 📫 How to reach me **a.gupta@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
