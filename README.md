@@ -6,14 +6,15 @@
 
 <h1 align="center">Hi 👋,  I'm Ayush Gupta</h1>
 
-- 📚 Data Science Masters Student at [Duke University](https://datascience.duke.edu/)
-- 👀 Experience in projects related to Machine Learning, Data Analytics, A/B Testing, Deep Learning, Geospatial Data, Data Engineering and Cloud Computing
+- 📚 AI Engineer at [Geolabe](https://www.geolabe.com/) with over 6 years of work experience in tech. 
+- Graduated master's in Data Science from [Duke University](https://datascience.duke.edu/)
+- 👀 Experience in projects related to AI, Machine Learning, Data Analytics, A/B Testing, Deep Learning, Geospatial Data, Data Engineering and Cloud Computing
 - 💻 Experience 
+      
+               1. Working as an AI engineer in [Geolabe](https://www.geolabe.com/), working on Methane Detection AI technology using Geospatial data.
   
-               1. Worked as a Data Sceintist in [Geolabe](https://www.geolabe.com/), working on Methane Detection AI technology using Geospatial data.
-  
-               2. 4 years of work experience in Data Analytics in [Reliance Industries Limited](https://www.ril.com/) in the oil & gas industry. 
-- 📫 How to reach me **a.gupta@gmail.com**
+               2. Work experience as a Data Scientist in [Reliance Industries Limited](https://www.ril.com/) in the manufacturing industry. 
+- 📫 How to reach me **ayush2456@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
